@@ -1,0 +1,42 @@
+dependencies: \
+  /Users/vishwas/Desktop/attendance/aqui/ios/Pods/Folly/folly/Conv.cpp \
+  /Users/vishwas/Desktop/attendance/aqui/ios/Pods/Target\ Support\ Files/Folly/Folly-prefix.pch \
+  /Users/vishwas/Desktop/attendance/aqui/ios/Pods/Folly/folly/Conv.h \
+  /Users/vishwas/Desktop/attendance/aqui/ios/Pods/Headers/Public/DoubleConversion/double-conversion/double-conversion.h \
+  /Users/vishwas/Desktop/attendance/aqui/ios/Pods/Headers/Public/DoubleConversion/double-conversion/utils.h \
+  /Users/vishwas/Desktop/attendance/aqui/ios/Pods/Folly/folly/Demangle.h \
+  /Users/vishwas/Desktop/attendance/aqui/ios/Pods/Folly/folly/FBString.h \
+  /Users/vishwas/Desktop/attendance/aqui/ios/Pods/Folly/folly/CppAttributes.h \
+  /Users/vishwas/Desktop/attendance/aqui/ios/Pods/Folly/folly/Portability.h \
+  /Users/vishwas/Desktop/attendance/aqui/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/vishwas/Desktop/attendance/aqui/ios/Pods/Folly/folly/CPortability.h \
+  /Users/vishwas/Desktop/attendance/aqui/ios/Pods/Folly/folly/Traits.h \
+  /Users/vishwas/Desktop/attendance/aqui/ios/Pods/Folly/folly/hash/Hash.h \
+  /Users/vishwas/Desktop/attendance/aqui/ios/Pods/Folly/folly/Utility.h \
+  /Users/vishwas/Desktop/attendance/aqui/ios/Pods/Folly/folly/functional/ApplyTuple.h \
+  /Users/vishwas/Desktop/attendance/aqui/ios/Pods/Folly/folly/functional/Invoke.h \
+  /Users/vishwas/Desktop/attendance/aqui/ios/Pods/Folly/folly/Preprocessor.h \
+  /Users/vishwas/Desktop/attendance/aqui/ios/Pods/Folly/folly/hash/SpookyHashV1.h \
+  /Users/vishwas/Desktop/attendance/aqui/ios/Pods/Folly/folly/hash/SpookyHashV2.h \
+  /Users/vishwas/Desktop/attendance/aqui/ios/Pods/Folly/folly/lang/Bits.h \
+  /Users/vishwas/Desktop/attendance/aqui/ios/Pods/Folly/folly/ConstexprMath.h \
+  /Users/vishwas/Desktop/attendance/aqui/ios/Pods/Folly/folly/lang/Assume.h \
+  /Users/vishwas/Desktop/attendance/aqui/ios/Pods/Folly/folly/portability/Builtins.h \
+  /Users/vishwas/Desktop/attendance/aqui/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/vishwas/Desktop/attendance/aqui/ios/Pods/Folly/folly/memory/Malloc.h \
+  /Users/vishwas/Desktop/attendance/aqui/ios/Pods/Folly/folly/memory/detail/MallocImpl.h \
+  /Users/vishwas/Desktop/attendance/aqui/ios/Pods/Folly/folly/Expected.h \
+  /Users/vishwas/Desktop/attendance/aqui/ios/Pods/Folly/folly/Likely.h \
+  /Users/vishwas/Desktop/attendance/aqui/ios/Pods/Folly/folly/Optional.h \
+  /Users/vishwas/Desktop/attendance/aqui/ios/Pods/Folly/folly/Unit.h \
+  /Users/vishwas/Desktop/attendance/aqui/ios/Pods/Folly/folly/lang/ColdClass.h \
+  /Users/vishwas/Desktop/attendance/aqui/ios/Pods/Folly/folly/Range.h \
+  /Users/vishwas/Desktop/attendance/aqui/ios/Pods/Folly/folly/portability/Constexpr.h \
+  /Users/vishwas/Desktop/attendance/aqui/ios/Pods/Folly/folly/portability/String.h \
+  /Users/vishwas/Desktop/attendance/aqui/ios/Pods/Folly/folly/CpuId.h \
+  /Users/vishwas/Desktop/attendance/aqui/ios/Pods/Folly/folly/detail/RangeCommon.h \
+  /Users/vishwas/Desktop/attendance/aqui/ios/Pods/Headers/Public/glog/glog/logging.h \
+  /Users/vishwas/Desktop/attendance/aqui/ios/Pods/Headers/Public/glog/glog/log_severity.h \
+  /Users/vishwas/Desktop/attendance/aqui/ios/Pods/Headers/Public/glog/glog/vlog_is_on.h \
+  /Users/vishwas/Desktop/attendance/aqui/ios/Pods/Folly/folly/detail/RangeSse42.h \
+  /Users/vishwas/Desktop/attendance/aqui/ios/Pods/Folly/folly/portability/Math.h

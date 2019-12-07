@@ -1,5 +1,5 @@
 # This program splits a message into slices, then encodes each slice within a qr code
-# these qr codes combined into one gif
+# these qr codes are then combined into one gif
 import pyqrcode
 import imageio
 import os
@@ -36,7 +36,6 @@ for piece in messageSlices:
     images.append(imageio.imread("QR.png"))
     images.append(imageio.imread("QR.png"))
     os.remove('QR.png')
-print(messageSlices)
 
 # Joins the list of pngs to a gif
 imageio.mimsave('/Users/natanberehe/Desktop/GIFencoder/QRGIF.gif', images)

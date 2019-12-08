@@ -13,7 +13,7 @@ messageSlices.append("")
 
 
 # Split the message into numSlices slices and add to list
-# each slice qr code can only represent 7 charachters before changing size
+# each slice qr code can only represent 7 characters before changing size
 charAdded = 0
 i = 0
 while charAdded < len(message):

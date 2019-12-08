@@ -1,8 +1,8 @@
 platform :ios, '9.0'
 require_relative '../node_modules/@react-native-community/cli-platform-ios/native_modules'
 
-target 'AquiScanner' do
-  # Pods for AquiScanner
+target 'Aqui' do
+  # Pods for Aqui
   pod 'FBLazyVector', :path => "../node_modules/react-native/Libraries/FBLazyVector"
   pod 'FBReactNativeSpec', :path => "../node_modules/react-native/Libraries/FBReactNativeSpec"
   pod 'RCTRequired', :path => "../node_modules/react-native/Libraries/RCTRequired"
@@ -34,7 +34,9 @@ target 'AquiScanner' do
   pod 'glog', :podspec => '../node_modules/react-native/third-party-podspecs/glog.podspec'
   pod 'Folly', :podspec => '../node_modules/react-native/third-party-podspecs/Folly.podspec'
 
-  target 'AquiScannerTests' do
+  pod 'react-native-camera-kit', :path => '../node_modules/react-native-camera-kit'
+
+  target 'AquiTests' do
     inherit! :search_paths
     # Pods for testing
   end
@@ -42,10 +44,10 @@ target 'AquiScanner' do
   use_native_modules!
 end
 
-target 'AquiScanner-tvOS' do
-  # Pods for AquiScanner-tvOS
+target 'Aqui-tvOS' do
+  # Pods for Aqui-tvOS
 
-  target 'AquiScanner-tvOSTests' do
+  target 'Aqui-tvOSTests' do
     inherit! :search_paths
     # Pods for testing
   end

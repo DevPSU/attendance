@@ -37,5 +37,5 @@ for piece in messageSlices:
     images.append(imageio.imread("QR.png"))
     os.remove('QR.png')
 
-# Joins the list of pngs to a gif
+# Joins the list of QR codes into a gif
 imageio.mimsave('/Users/natanberehe/Desktop/GIFencoder/QRGIF.gif', images)

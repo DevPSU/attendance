@@ -58,27 +58,6 @@ export default class App extends Component {
     }
   }
 
-  isNextSlice=(justScanned, currentIndex)=> {  
-    if (currentIndex < 10){
-      if (parseInt(justScanned.slice(0,1))==currentIndex){
-        return true;
-      }
-    }
-    else if (10 <= currentIndex < 100){
-      if (parseInt(justScanned.slice(0,2))==currentIndex){
-        return true;
-      }
-    }
-    else if (100 <= currentIndex < 1000){
-      if (parseInt(justScanned.slice(0,3))==currentIndex){
-        return true;
-      }
-    }
-    else{
-      return false;
-    }
-  }
-
   open_QR_Code_Scanner=()=> {
 
     var that = this;

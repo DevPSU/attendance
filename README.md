@@ -18,3 +18,5 @@ To build on Android Studio Simulator:
 ```
 react-native run-android
 ```
+
+Downlad the expo app available for ios and android and scan the qr-code to run this on your phone:
